@@ -1,8 +1,17 @@
 {
-    "tag": "ParadoxoPNG",
-    "job": "Bem-vindo ao meu site!",
-    "link1": "https://google.com",
-    "link2": "https://google.com",
-    "link3": "https://google.com",
-    "email": "https://google.com",
+    "tag": "Developer",
+    "job": "Programador, Editor, Animador",
+    "link1": {
+        "link": "https://instagram.com/paradoxocraftpng",
+        "text": "Instagram"
+    },
+    "link2": {
+        "link": "https://youtube.com/@paradoxocraftpng",
+        "text": "Youtube"
+    },
+    "link3": {
+        "link": "https://tiktok.com/@paradoxocraftpng",
+        "text": "TikTok"
+    },
+    "email": "paradoxocraftpng@gmail.com"
 }
